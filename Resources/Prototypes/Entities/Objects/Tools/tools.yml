@@ -367,7 +367,6 @@
     - HVCable
     - CableTerminal
     - Deconstruct
-    - FanTiny
   - type: LimitedCharges
     maxCharges: 30
     charges: 30
